@@ -1,0 +1,18 @@
+body{
+  font-family: "Hedvig Letters Serif", serif;
+  font-family: "Roboto", sans-serif;
+  background: linear-gradient(to top right, #666699 0%, #333399 100%);
+  color: whitesmoke;
+  }
+  .nav-link{
+  color: rgb(150, 89, 207);  
+}
+h1{
+  color: rgb(150, 89, 207);
+}
+h2 {
+  color: rgb(150, 89, 207);
+}
+h6{
+  color: rgb(127, 18, 40);
+}
